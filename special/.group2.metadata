@@ -1,0 +1,1 @@
+{"acl":{"read":"nobody","write":"nobody","execute":"d2;group:group1;group:group2"},"contentType":"application\/vnd.scriptr-javascript"}
